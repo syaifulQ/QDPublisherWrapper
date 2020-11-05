@@ -5,4 +5,6 @@
 //  Created by Syaiful amin on 05/11/20.
 //
 
-import Foundation
+import QDPublisher
+
+public let publisher = QDPublisher.service

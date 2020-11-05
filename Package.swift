@@ -14,7 +14,7 @@ let package = Package(
 
     ],
     dependencies: [
-        .package(name: "QDPublisher", url: "https://github.com/syaifulQ/QDPublisher.git", from: "0.0.8"),
+        .package(name: "QDPublisher", url: "https://github.com/syaifulQ/QDPublisher.git", from: "0.0.11"),
         .package(name: "Gzip", url: "https://github.com/1024jp/GzipSwift.git", from: "5.1.0")
     ],
     targets: [
